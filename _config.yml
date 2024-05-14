@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Zhuoran WANG / Academic Homepage"
+title                    : "Zhuoran WANG"
 title_separator          : "-"
 name                     : &name "Zhuoran WANG"
 description              : &description "Enthusiasm, enthusiasm and love"
@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Zhuoran WANG (王卓然)"
-  pronouns         : "he"  
-  bio              : "Enthusiasm, enthusiasm and love"
+  pronouns         : "the Hong Kong University of Science and Technology (Guangzhou)"  
+  bio              : "Applied Probability Theory and Financial Mathematics"
   location         : "Guangzhou, China"
   employer         : 
   uri              : # URL
