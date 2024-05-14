@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# Zhuoran WANG (王卓然)
-
 ## Brief Introduction
 
 Zhuoran Wang is now a Phd student at the Financial Technology Thrust, [Society Hub](https://soch.hkust-gz.edu.cn/), [the Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/). His research interests mainly focus on probability theory and its applications in Finance and Machine Learning, e.g., derivative pricing theory and machine learning algorithm. His supervisor is Prof. [Ying ZHANG](https://sites.google.com/view/ying-zhang/home?authuser=0).
