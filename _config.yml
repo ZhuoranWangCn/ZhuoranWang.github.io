@@ -22,8 +22,8 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "face.png"
-  name             : "Zhuoran WANG (王卓然)"
-  pronouns         : "the Hong Kong University of Science and Technology (Guangzhou)"  
+  name             : "Zhuoran WANG"
+  pronouns         : "The Hong Kong University of Science and Technology (Guangzhou)"  
   bio              : "Applied Probability Theory and Financial Mathematics"
   location         : "Guangzhou, China"
   employer         : 
