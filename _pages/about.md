@@ -15,13 +15,13 @@ Zhuoran WANG is now a Phd student at the Financial Technology Thrust, [Society H
 
 # Education Background
 
-**PhD. Student in Financial Technology**
+**PhD. Student in Financial Technology** (focused on Financial Mathematics)
 + Year: Since 2024.09
 + *The Hong Kong University of Science and Technology*, *Guangzhou*, *China*
 + Financial Technology Thrust, Society Hub
 + Supervisor: Prof. Ying ZHANG
 
-**Bachelor in Finance**
+**Bachelor in Finance** (with numerous math courses)
 + Year: 2020.09 - 2024.06
 + *Nanjing Agricultural University*, *Nanjing*, *China*
 + Department of Finance, College of Finance
