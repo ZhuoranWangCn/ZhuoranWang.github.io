@@ -26,3 +26,6 @@ Zhuoran WANG is now a Phd student at the Financial Technology Thrust, [Society H
 + *Nanjing Agricultural University*, *Nanjing*, *China*
 + Department of Finance, College of Finance
 + Core Courses: Probability Theory, Mathematical Statistics, Real Analysis, Functional Analysis, Modern Algebra, Stochastic Processes, Ordinary Differential Equations, Intermediate Microeconomics, Intermediate Macroeconomics, Econometrics, Economics of Money and Finance, Investments, Financial Risk Management, Financial Engineering
+
+# Contact
+zhuoran_wang2002@163.com
